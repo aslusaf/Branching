@@ -1,7 +1,5 @@
 ## Git Cheat Sheet
 
-THIS IS NEW BRANCH STUFF
-
 Overview of git commands
 
 ### Basic Commands
