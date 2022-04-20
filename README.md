@@ -1,10 +1,6 @@
 ## Git Cheat Sheet
 
-THIS IS MAIN BRANCH CODE
-
 Overview of git commands
-Text added on main branch
-to create a merge conflict
 
 ### Basic Commands
 * `git init` - initializes a local git repository
