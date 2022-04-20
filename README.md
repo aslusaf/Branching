@@ -1,5 +1,7 @@
 ## Git Cheat Sheet
 
+Overview of git commands
+
 ### Basic Commands
 * `git init` - initializes a local git repository
 * `git add` - stage current folder for commit
